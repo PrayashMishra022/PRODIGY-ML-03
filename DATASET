@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/tongpython/cat-and-dog
+
+for download
+#!/bin/bash
+curl -L -o ~/Downloads/cat-and-dog.zip\
+  https://www.kaggle.com/api/v1/datasets/download/tongpython/cat-and-dog 
+
