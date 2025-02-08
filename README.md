@@ -43,9 +43,14 @@ SVM is a supervised learning algorithm that finds the optimal hyperplane to sepa
 - **Kernels:** Functions that map data to higher dimensions to handle non-linearly separable cases (e.g., RBF kernel).
 - **Regularization (C parameter):** Controls the trade-off between maximizing the margin and minimizing misclassifications.
 
-## Dependencies
+## Running the Project
 
 Install the required libraries:
 
 ```bash
 pip install tensorflow numpy opencv-python matplotlib scikit-learn joblib kaggle
+
+ **Clone the Repository:**
+   ```bash
+   git clone [https://github.com/yourusername/cat-dog-svm.git](https://github.com/yourusername/cat-dog-svm.git)  # Replace with your repo URL
+   cd cat-dog-svm
