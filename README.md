@@ -50,7 +50,7 @@ Install the required libraries:
 ```bash
 pip install tensorflow numpy opencv-python matplotlib scikit-learn joblib kaggle
 
- **Clone the Repository:**
+ Clone the Repository:
    ```bash
-   git clone [https://github.com/yourusername/cat-dog-svm.git](https://github.com/yourusername/cat-dog-svm.git)  # Replace with your repo URL
+   git clone (https://github.com/PrayashMishra022/PRODIGY-ML-03))  
    cd cat-dog-svm
